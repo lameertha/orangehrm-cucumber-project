@@ -1,0 +1,208 @@
+2020-04-28 16:04:90 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:227 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:70 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:758 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:691 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:176 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:20 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:28 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:137 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:321 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:411 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:47 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:254 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:360 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:723 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:173 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:360 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:784 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:681 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:729 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:776 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:230 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:753 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:900 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:517 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:272 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:834 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:666 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:830 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:103 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:888 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:600 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:869 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:183 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:773 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 16:04:416 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:976 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:376 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (7dbca8cd69274d7009923a1e3b221570)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:516 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (7dbca8cd69274d7009923a1e3b221570)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:66 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 17:04:610 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:368 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (2c94e047809fa720880f3be142eb929d)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:645 INFO  HomePage :47 - Entering Password : admin321 [[ChromeDriver: chrome on WINDOWS (2c94e047809fa720880f3be142eb929d)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:689 INFO  HomePage :53 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (2c94e047809fa720880f3be142eb929d)] -> xpath: //input[@id='btnLogin']]
+2020-04-28 17:04:168 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:940 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (c86eecad5c19b799953b60959368ac3c)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:01 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (c86eecad5c19b799953b60959368ac3c)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:867 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 17:04:31 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:94 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (a6d178401cbc9ace4a41bb3b73f92af9)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:402 INFO  HomePage :47 - Entering Password : admin321 [[ChromeDriver: chrome on WINDOWS (a6d178401cbc9ace4a41bb3b73f92af9)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:460 INFO  HomePage :53 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (a6d178401cbc9ace4a41bb3b73f92af9)] -> xpath: //input[@id='btnLogin']]
+2020-04-28 17:04:839 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:798 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (4dbc90ded1c2fad924c5c64a0eb49dee)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:929 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (4dbc90ded1c2fad924c5c64a0eb49dee)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:759 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 17:04:762 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:387 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (e6a47709e3ea6c01dbe3f27075cffb67)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:656 INFO  HomePage :47 - Entering Password : admin321 [[ChromeDriver: chrome on WINDOWS (e6a47709e3ea6c01dbe3f27075cffb67)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:607 INFO  HomePage :53 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (e6a47709e3ea6c01dbe3f27075cffb67)] -> xpath: //input[@id='btnLogin']]
+2020-04-28 17:04:552 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:561 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (9fdc44db4e97a7d501747c67b2db5fbe)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:702 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (9fdc44db4e97a7d501747c67b2db5fbe)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:449 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 17:04:489 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (9fdc44db4e97a7d501747c67b2db5fbe)] -> xpath: //a[@id='welcome']]
+2020-04-28 17:04:415 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:394 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (bda497178dcb48f84b0ba51c84f5cfb0)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:580 INFO  HomePage :47 - Entering Password : admin321 [[ChromeDriver: chrome on WINDOWS (bda497178dcb48f84b0ba51c84f5cfb0)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:661 INFO  HomePage :53 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (bda497178dcb48f84b0ba51c84f5cfb0)] -> xpath: //input[@id='btnLogin']]
+2020-04-28 17:04:700 INFO  HomePage :58 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (bda497178dcb48f84b0ba51c84f5cfb0)] -> xpath: //span[@id='spanMessage']]
+2020-04-28 17:04:836 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:503 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (92441098dc97000066e58edc7c427d12)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:652 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (92441098dc97000066e58edc7c427d12)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:161 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 17:04:195 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (92441098dc97000066e58edc7c427d12)] -> xpath: //a[@id='welcome']]
+2020-04-28 17:04:481 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:720 INFO  HomePage :41 - Entering Username : Admin321 [[ChromeDriver: chrome on WINDOWS (3d9cda8f5f62dd2e11660ea3546c285b)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:988 INFO  HomePage :47 - Entering Password : admin321 [[ChromeDriver: chrome on WINDOWS (3d9cda8f5f62dd2e11660ea3546c285b)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:670 INFO  HomePage :53 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (3d9cda8f5f62dd2e11660ea3546c285b)] -> xpath: //input[@id='btnLogin']]
+2020-04-28 17:04:892 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:916 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (380816b864b28485d2e635fe5e73065a)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:73 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (380816b864b28485d2e635fe5e73065a)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:594 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 17:04:627 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (380816b864b28485d2e635fe5e73065a)] -> xpath: //a[@id='welcome']]
+2020-04-28 17:04:672 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:493 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:430 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (bbb5d4888a3133d14edd94bb0c9731bc)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:643 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (bbb5d4888a3133d14edd94bb0c9731bc)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:154 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 17:04:189 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (bbb5d4888a3133d14edd94bb0c9731bc)] -> xpath: //a[@id='welcome']]
+2020-04-28 17:04:189 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:523 INFO  HomePage :53 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (e98037279fe49aa10d7be9253b39741f)] -> xpath: //input[@id='btnLogin']]
+2020-04-28 17:04:897 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:912 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (d277bf487110d4529e3e466513a37671)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:81 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (d277bf487110d4529e3e466513a37671)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:02 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 17:04:43 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (d277bf487110d4529e3e466513a37671)] -> xpath: //a[@id='welcome']]
+2020-04-28 17:04:934 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:147 INFO  HomePage :53 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (6d9d1f6caa203f49c65ef689cf0c6e39)] -> xpath: //input[@id='btnLogin']]
+2020-04-28 17:04:204 INFO  HomePage :58 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (6d9d1f6caa203f49c65ef689cf0c6e39)] -> xpath: //span[@id='spanMessage']]
+2020-04-28 17:04:151 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:336 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (6aade814e13e592b1e6a1faff4d58f92)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:519 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (6aade814e13e592b1e6a1faff4d58f92)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:462 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 17:04:508 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (6aade814e13e592b1e6a1faff4d58f92)] -> xpath: //a[@id='welcome']]
+2020-04-28 17:04:454 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:703 INFO  HomePage :53 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (8e6e0405eb8664127025c60e000e0710)] -> xpath: //input[@id='btnLogin']]
+2020-04-28 17:04:757 INFO  HomePage :58 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (8e6e0405eb8664127025c60e000e0710)] -> xpath: //span[@id='spanMessage']]
+2020-04-28 17:04:465 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:278 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (97f78d6c0f9d03f04349a1b3882fa5cb)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:433 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (97f78d6c0f9d03f04349a1b3882fa5cb)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:787 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 17:04:826 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (97f78d6c0f9d03f04349a1b3882fa5cb)] -> xpath: //a[@id='welcome']]
+2020-04-28 17:04:723 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:216 INFO  HomePage :53 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (2a081f506925de23c35539368559f912)] -> xpath: //input[@id='btnLogin']]
+2020-04-28 17:04:270 INFO  HomePage :58 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (2a081f506925de23c35539368559f912)] -> xpath: //span[@id='spanMessage']]
+2020-04-28 17:04:168 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:685 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (7712a5820563094fccd6baaca2fdca35)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 17:04:895 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (7712a5820563094fccd6baaca2fdca35)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 17:04:837 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 17:04:872 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (7712a5820563094fccd6baaca2fdca35)] -> xpath: //a[@id='welcome']]
+2020-04-28 17:04:676 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 17:04:350 INFO  HomePage :53 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (958f62c2c951c47e42f435af22e79127)] -> xpath: //input[@id='btnLogin']]
+2020-04-28 17:04:386 INFO  HomePage :58 - Displaying Login Error Message : [[ChromeDriver: chrome on WINDOWS (958f62c2c951c47e42f435af22e79127)] -> xpath: //span[@id='spanMessage']]
+2020-04-28 19:04:763 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 19:04:795 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (bf06503e2ba61e6e3c01192366bd1234)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 19:04:927 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (bf06503e2ba61e6e3c01192366bd1234)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 19:04:367 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 19:04:423 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (bf06503e2ba61e6e3c01192366bd1234)] -> xpath: //a[@id='welcome']]
+2020-04-28 19:04:384 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 19:04:912 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (708afe270116b909214d3f05ede70e85)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 19:04:128 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (708afe270116b909214d3f05ede70e85)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 19:04:735 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 19:04:774 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (708afe270116b909214d3f05ede70e85)] -> xpath: //a[@id='welcome']]
+2020-04-28 19:04:36 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 19:04:573 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (edc04f30863596e3e8099b4dded81b21)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 19:04:755 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (edc04f30863596e3e8099b4dded81b21)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 19:04:495 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-28 19:04:535 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (edc04f30863596e3e8099b4dded81b21)] -> xpath: //a[@id='welcome']]
+2020-04-28 19:04:597 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-28 19:04:885 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (777a0fc200cfed22862648a0dcc7e338)] -> xpath: //input[@id='txtUsername']]
+2020-04-28 19:04:77 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (777a0fc200cfed22862648a0dcc7e338)] -> xpath: //input[@id='txtPassword']]
+2020-04-28 19:04:251 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-29 10:04:351 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:890 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:998 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (5f7821113418ea4e2703e03749666de9)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 10:04:148 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (5f7821113418ea4e2703e03749666de9)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 10:04:138 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-29 10:04:795 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:642 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (5a9f6c66fc010ab2071b335adfffc40b)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 10:04:100 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (5a9f6c66fc010ab2071b335adfffc40b)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 10:04:369 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-29 10:04:591 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:263 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (b8002050d345c13315e6324d53c3d3df)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 10:04:382 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (b8002050d345c13315e6324d53c3d3df)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 10:04:83 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-29 10:04:120 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (b8002050d345c13315e6324d53c3d3df)] -> xpath: //a[@id='welcome']]
+2020-04-29 10:04:702 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 10:04:396 INFO  HomePage :41 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (92cd27079d494a6318ed767f40ff6f4d)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 10:04:775 INFO  HomePage :47 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (92cd27079d494a6318ed767f40ff6f4d)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 10:04:186 INFO  HomePage :53 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-29 10:04:232 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (92cd27079d494a6318ed767f40ff6f4d)] -> xpath: //a[@id='welcome']]
+2020-04-29 11:04:778 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 11:04:68 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (934ff0ff64906983788db7cd7e4b35b0)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 11:04:191 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (934ff0ff64906983788db7cd7e4b35b0)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 11:04:895 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-29 11:04:929 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (934ff0ff64906983788db7cd7e4b35b0)] -> xpath: //a[@id='welcome']]
+2020-04-29 11:04:170 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 11:04:518 INFO  HomePage :45 - Entering Username : admin [[ChromeDriver: chrome on WINDOWS (df3d2433aa6d6783792167d753a77aeb)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 11:04:624 INFO  HomePage :51 - Entering Password : admin321 [[ChromeDriver: chrome on WINDOWS (df3d2433aa6d6783792167d753a77aeb)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 11:04:444 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (df3d2433aa6d6783792167d753a77aeb)] -> xpath: //input[@id='btnLogin']]
+2020-04-29 11:04:484 INFO  HomePage :68 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (df3d2433aa6d6783792167d753a77aeb)] -> xpath: //span[@id='spanMessage']]
+2020-04-29 11:04:780 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 11:04:564 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (e686777cc01fd2ce94ade6814d0c15b9)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 11:04:683 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (e686777cc01fd2ce94ade6814d0c15b9)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 11:04:70 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-29 11:04:105 INFO  WelcomeAdminPage :23 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (e686777cc01fd2ce94ade6814d0c15b9)] -> xpath: //a[@id='welcome']]
+2020-04-29 11:04:40 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 11:04:180 INFO  HomePage :45 - Entering Username : admin [[ChromeDriver: chrome on WINDOWS (c7997d57e06b25dafe810fd941f09dd9)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 11:04:300 INFO  HomePage :51 - Entering Password : admin321 [[ChromeDriver: chrome on WINDOWS (c7997d57e06b25dafe810fd941f09dd9)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 11:04:420 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (c7997d57e06b25dafe810fd941f09dd9)] -> xpath: //input[@id='btnLogin']]
+2020-04-29 11:04:457 INFO  HomePage :68 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (c7997d57e06b25dafe810fd941f09dd9)] -> xpath: //span[@id='spanMessage']]
+2020-04-29 11:04:761 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 11:04:475 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 11:04:803 INFO  HomePage :45 - Entering Username : admin [[ChromeDriver: chrome on WINDOWS (d0d23b06122151fad157b2beb4f4f5c6)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 11:04:921 INFO  HomePage :51 - Entering Password : admin321 [[ChromeDriver: chrome on WINDOWS (d0d23b06122151fad157b2beb4f4f5c6)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 11:04:446 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (d0d23b06122151fad157b2beb4f4f5c6)] -> xpath: //input[@id='btnLogin']]
+2020-04-29 11:04:874 INFO  HomePage :68 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (d0d23b06122151fad157b2beb4f4f5c6)] -> xpath: //span[@id='spanMessage']]
+2020-04-29 11:04:876 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 11:04:963 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (87d28ca7c9fb1f69633cb370cd5cbae2)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 11:04:95 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (87d28ca7c9fb1f69633cb370cd5cbae2)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 11:04:655 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-29 11:04:687 INFO  HomePage :62 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (87d28ca7c9fb1f69633cb370cd5cbae2)] -> xpath: //a[@id='welcome']]
+2020-04-29 11:04:344 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 11:04:831 INFO  HomePage :45 - Entering Username : admin [[ChromeDriver: chrome on WINDOWS (213c000455a380036b4481e277ea9624)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 11:04:947 INFO  HomePage :51 - Entering Password : admin321 [[ChromeDriver: chrome on WINDOWS (213c000455a380036b4481e277ea9624)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 11:04:586 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (213c000455a380036b4481e277ea9624)] -> xpath: //input[@id='btnLogin']]
+2020-04-29 11:04:621 INFO  HomePage :68 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (213c000455a380036b4481e277ea9624)] -> xpath: //span[@id='spanMessage']]
+2020-04-29 13:04:762 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 13:04:332 INFO  HomePage :45 - Entering Username : Admin [[ChromeDriver: chrome on WINDOWS (a85b976b755e0fd68cee5adfd653f57d)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 13:04:532 INFO  HomePage :51 - Entering Password : admin123 [[ChromeDriver: chrome on WINDOWS (a85b976b755e0fd68cee5adfd653f57d)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 13:04:22 INFO  HomePage :57 - Clicking on Login Button : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='btnLogin']'
+2020-04-29 13:04:57 INFO  HomePage :62 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (a85b976b755e0fd68cee5adfd653f57d)] -> xpath: //a[@id='welcome']]
+2020-04-29 13:04:889 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 13:04:416 INFO  HomePage :45 - Entering Username : admin [[ChromeDriver: chrome on WINDOWS (8e665896166252c5e0385b2a28ba3854)] -> xpath: //input[@id='txtUsername']]
+2020-04-29 13:04:563 INFO  HomePage :51 - Entering Password : admin321 [[ChromeDriver: chrome on WINDOWS (8e665896166252c5e0385b2a28ba3854)] -> xpath: //input[@id='txtPassword']]
+2020-04-29 13:04:489 INFO  HomePage :57 - Clicking on Login Button : [[ChromeDriver: chrome on WINDOWS (8e665896166252c5e0385b2a28ba3854)] -> xpath: //input[@id='btnLogin']]
+2020-04-29 13:04:524 INFO  HomePage :68 - Displaying Welcome AdminText : [[ChromeDriver: chrome on WINDOWS (8e665896166252c5e0385b2a28ba3854)] -> xpath: //span[@id='spanMessage']]
